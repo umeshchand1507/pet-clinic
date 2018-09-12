@@ -2,7 +2,12 @@
 # Project Specific
 ######################
 pet-clinic-data/target/
+pet-clinic-data/pom.xml.releaseBackup
+
+pet-clinic-web/pom.xml.releaseBackup
 pet-clinic-web/target/
+pom.xml.releaseBackup
+release.properties
 
 /build/www/**
 /src/test/javascript/coverage/
