@@ -1,6 +1,6 @@
 package com.amazon.petclinic.model;
 
-public class Person {
+public class Person extends BaseEnity {
     private String firstName;
     private String lastName;
 

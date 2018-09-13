@@ -2,7 +2,7 @@ package com.amazon.petclinic.model;
 
 import java.time.LocalDate;
 
-public class Pet {
+public class Pet extends BaseEnity {
     private PetType petType;
     private LocalDate birthDate;
     private Owner owner;

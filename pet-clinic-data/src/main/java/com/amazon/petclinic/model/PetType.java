@@ -1,6 +1,6 @@
 package com.amazon.petclinic.model;
 
-public class PetType {
+public class PetType extends BaseEnity {
     private String name;
 
     public String getName() {
